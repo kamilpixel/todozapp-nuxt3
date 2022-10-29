@@ -30,4 +30,7 @@ export default defineNuxtConfig({
     autoImport: false
   },
   target: 'static',
+  router: {
+    base: '/todozapp-nuxt3/'
+  },
 })
