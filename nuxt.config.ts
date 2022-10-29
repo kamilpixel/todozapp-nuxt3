@@ -31,6 +31,6 @@ export default defineNuxtConfig({
   },
   target: 'static',
   router: {
-    base: '/todozapp-nuxt3-preview/'
+    base: '/kamilpixel.github.io/todozapp-nuxt3-preview/'
   },
 })
